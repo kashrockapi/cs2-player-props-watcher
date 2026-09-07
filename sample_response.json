@@ -1,0 +1,48 @@
+{
+  "source": "kashrock",
+  "sport": "cs2",
+  "props": [
+    {
+      "propId": "kr_prop_5992b0df9d7afc33",
+      "eventId": "kr_ev_d9410a855f83",
+      "offerId": "kr_prop_5992b0df9d7afc33_6_over",
+      "book_name": "PrizePicks",
+      "player_name": "fear",
+      "stat_type": "ESPORTS_KILLS_MAPS_1_2",
+      "line": 25.5,
+      "odds": -118,
+      "direction": "over",
+      "team": "Fnatic",
+      "opponent": "Vitality",
+      "event_time": "2026-09-07T13:30:00.000Z"
+    },
+    {
+      "propId": "kr_prop_883ba7a1e090",
+      "eventId": "kr_ev_abc123def456",
+      "offerId": "kr_prop_883ba7a1e090_6_over",
+      "book_name": "Betr",
+      "player_name": "mezii",
+      "stat_type": "CS2_HEADSHOTS_MAPS_1_2",
+      "line": 14.5,
+      "odds": -105,
+      "direction": "over",
+      "team": "Team Vitality",
+      "opponent": "Lynn Vision Gaming",
+      "event_time": "2026-09-07T13:55:00.000Z"
+    },
+    {
+      "propId": "kr_prop_c4d5e6f7g8h9",
+      "eventId": "kr_ev_xyz789uvw012",
+      "offerId": "kr_prop_c4d5e6f7g8h9_6_under",
+      "book_name": "Underdog",
+      "player_name": "ZywOo",
+      "stat_type": "ESPORTS_KILLS_MAPS_1_2",
+      "line": 20.0,
+      "odds": -120,
+      "direction": "under",
+      "team": "Team Spirit",
+      "opponent": "G2 Esports",
+      "event_time": "2026-09-07T14:00:00.000Z"
+    }
+  ]
+}
