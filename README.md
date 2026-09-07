@@ -1,57 +1,25 @@
 # CS2 Player Props Watcher
 
-Get your free API key
-
-This bot uses your personal KashRock API key.
-Create a free Sandbox account—no card required—then add your key to `.env`.
-
-```bash
-KASHROCK_API_KEY=your_key_here
-```
-
-Get a free key at KashRock → https://www.kashrock.com/#pricing
-
 Free, open-source CS2 player-props watcher for terminal or Discord.
 Uses a free KashRock Sandbox key—no card, no scraper maintenance.
 
 ## How It Works
 
-```
-Reddit / GitHub post
-        ↓
-Clone or download the free bot
-        ↓
-"Get a free KashRock API key"
-        ↓
-Create account / Google sign-in
-        ↓
-Copy their Sandbox key
-        ↓
-Paste it into .env
-        ↓
-Run the CS2 watcher
-        ↓
-Want more coverage or capacity?
-        ↓
-Upgrade their own KashRock plan
+## Get a free KashRock API key
+
+This bot uses **your own** KashRock API key.
+
+1. Create a free Sandbox account — no credit card needed  
+2. Copy your API key  
+3. Paste it into your `.env` file:
+
+```env
+KASHROCK_API_KEY=your_key_here
 ```
 
-## What You Provide
+[Get your free API key →](https://www.kashrock.com/?utm_source=github&utm_campaign=cs2bot)
 
-- The free/open-source bot.
-- The code and setup docs.
-- A sample response with fake/redacted values.
-- Optional filters and Discord output.
-- The free CS2 Sandbox access path.
 
-## What You Do Not Provide
-
-- A shared live key.
-- Unlimited requests.
-- Paid LoL/Dota data through the free bot.
-- A hosted bot that consumes your data indefinitely.
-
-That makes the bot an **acquisition asset** — not a recurring cost or security risk.
 
 ## Quick Start
 
